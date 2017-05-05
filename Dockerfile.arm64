@@ -1,4 +1,4 @@
-FROM ??????????
+FROM centurylink/ca-certs
 
 EXPOSE 8000
 ENV DATABASE_DRIVER=sqlite3
